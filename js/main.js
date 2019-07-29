@@ -3,6 +3,10 @@
   -- Them Nhan Vien
 */
 
+function themNguoiDung(){
+  console.log("them nguoi dung");
+}
+
 var mangNhanVien = [];
 var validation = new Validation();
 var jsonData = localStorage.getItem("DSNV");
