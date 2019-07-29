@@ -6,6 +6,10 @@ function themNguoiDung(){
   console.log("Them nguoi dung phloc2");
 }
 
+function themNguoiDung(){
+  console.log("them nguoi dung");
+}
+
 var mangNhanVien = [];
 var validation = new Validation();
 var jsonData = localStorage.getItem("DSNV");
