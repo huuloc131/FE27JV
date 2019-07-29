@@ -2,6 +2,9 @@
   Quan Ly Nhan Vien:
   -- Them Nhan Vien
 */
+function themNguoiDung(){
+  console.log("Them nguoi dung phloc2");
+}
 
 var mangNhanVien = [];
 var validation = new Validation();
